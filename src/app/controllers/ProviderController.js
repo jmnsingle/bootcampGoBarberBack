@@ -1,4 +1,4 @@
-import User from '../models/Users';
+import User from '../models/User';
 import File from '../models/File';
 
 class ProviderController {
